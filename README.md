@@ -22,7 +22,7 @@
 
 <p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
 
-<p>Ahora mismo estoy aprendido .NET y en constante aprendizaje de AWS, Docker y Git.</p><br>
+<p>Ahora mismo estoy aprendiendo .NET y en constante aprendizaje de AWS, Docker y Git.</p><br>
 
 ###
 
