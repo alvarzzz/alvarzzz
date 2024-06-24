@@ -36,7 +36,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="40" alt="Git Logo"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Microsoft_Azure.svg" height="40" alt="Microsoft Azure Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/>
 </div>
 
