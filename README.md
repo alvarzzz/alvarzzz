@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">B I E N V E N I D O</h2>
+<h2 align="center">👋 B I E N V E N I D O</h2>
 
 ###
 
@@ -18,9 +18,9 @@
 
 ###
 
-<p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Soy proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
+<p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
 
-<p>Ahora mismo estoy aprendido .NET y en constante aprendizaje de AWS, Docker y Git</p><br>
+<p>Ahora mismo estoy aprendido .NET y en constante aprendizaje de AWS, Docker y Git.</p><br>
 
 ###
 
@@ -34,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="PHP Logo"/> <img width="12"/>
 </div>
 
-<strong><h3 align="center">Conocimientos</h3></strong>
+<h3 align="center"><strong>Conocimientos</strong></h3>
 
 <div align="center"
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/> <img width="12"/>
