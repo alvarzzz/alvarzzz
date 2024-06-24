@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left"><br> 🔭 Soy Técnico Superior en Administración de Sistemas Informáticos en Red<br> 📚 Ahora mismo estoy aprendido .NET</p>
+<p align="left"><br>Soy Técnico Superior en Administración de Sistemas Informáticos en Red<br>Ahora mismo estoy aprendido .NET</p>
 
 ###
 
@@ -35,6 +35,6 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/> <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" height="150" alt="MySQL Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" height="40" alt="MySQL Logo"/>
 </div>
 
