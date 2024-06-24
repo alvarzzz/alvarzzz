@@ -5,8 +5,10 @@
 ###
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/alvarzzz"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedInLogo"/></a>
+   <a href="https://www.linkedin.com/in/alvarzzz"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedInLogo"/></a><br>
+   <a href="https://tu_enlace_de_descarga_directa_aquí" target="_blank"><img src="https://img.shields.io/badge/Descargar-CV-green?style=for-the-badge&logo=acrobat&logoColor=white" alt="Descargar CV"></a>
 </div>
+
 
 ###
 
