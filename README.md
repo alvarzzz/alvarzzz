@@ -10,38 +10,36 @@
 
 ###
 
-<h1 align="center">Bienvenido! 👋</h1>
+<h1 align="center">B I E N V E N I D O 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mí</h3>
+<h3 align="left">👩‍💻  Sobre a</h3>
 
 ###
 
-<p align="left"><br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br><br>- 🔭 Soy Técnico Superior en Administración de Sistemas Informáticos<br>- 📚 Ahora mismo estoy aprendido .NET</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">💡 Tecnologías y Conocimientos</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" height="40" alt="HTML5Logo"/>
+  <img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" height="40" alt="HTML5 Logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" height="40" alt="CSS3 Logo"/>
+  <img width="12"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-3628617-3029842.png" height="40" alt="AWS Logo"/>
+  <img width="12"/>
+  <img src="https://icon2.cleanpng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg" height="40" alt="Git Logo"/>
+  <img width="12"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-169-1174970.png" height="40" alt="GitHub Logo"/>
+  <img width="12"/>
+  <img src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-5b80352110ca84.1955496015351288650688.jpg" height="40" alt="MySQL Logo"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
