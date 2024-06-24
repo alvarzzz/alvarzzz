@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">👋 B I E N V E N I D O</h2>
+<h1 align="center">👋 B I E N V E N I D O</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<strong><h3 align="center">Tecnologías</h3></strong>
+<h2 align="center"><strong>Tecnologías</strong></h2>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="40" alt="HTML5 Logo"/> <img width="12"/>
@@ -34,7 +34,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="PHP Logo"/> <img width="12"/>
 </div>
 
-<h3 align="center"><strong>Conocimientos</strong></h3>
+<h2 align="center"><strong>Conocimientos</strong></h2>
 
 <div align="center"
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/> <img width="12"/>
@@ -42,5 +42,5 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/> <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" height="40" alt="Cisco Logo"/> <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1280px-Cisco_logo_blue_2016.svg.png" height="40" alt="Cisco Logo"/> <img width="12"/>
 </div>
