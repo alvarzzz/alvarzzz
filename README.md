@@ -45,7 +45,7 @@
   <img src="https://es.wikipedia.org/wiki/Archivo:GitHub_Invertocat_Logo.svg" height="40" alt="GitHub Logo"/>
   <img width="12"/>
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-mrvyx&psig=AOvVaw2_RB2sLAszwbna6cvfeOnf&ust=1719328763897000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCV-fPE9IYDFQAAAAAdAAAAABAJ" height="40" alt="MySQL Logo"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303251%2Fmysql-logo&psig=AOvVaw3MM0eP_R9D4xyQjTu6Hiic&ust=1719331516333000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCMs57P9IYDFQAAAAAdAAAAABAE" height="40" alt="MySQL Logo"/>
   <img width="12"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/>
