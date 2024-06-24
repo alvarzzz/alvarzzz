@@ -18,13 +18,13 @@
 
 ###
 
-<p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Soy proactivo y con carácter, siempre enfocado en ofrecer el mejor servicio posible. 
+<p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Soy proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
 
-<br>Ahora mismo estoy aprendido .NET</p>
+<p>Ahora mismo estoy aprendido .NET y en constante aprendizaje de AWS, Docker y Git</p><br>
 
 ###
 
-<h3 align="left">Tecnologías</h3>
+<h3 align="center">**Tecnologías**</h3>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="40" alt="HTML5 Logo"/> <img width="12"/>
@@ -34,15 +34,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="PHP Logo"/> <img width="12"/>
 </div>
 
-<h3 align="left">Conocimientos</h3>
+<h3 align="center">**Conocimientos**</h3>
 <div align="center"
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="40" alt="Git Logo"/> <img width="12"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/> <img width="12"/>
-  <img src="https://e7.pngegg.com/pngimages/464/597/png-clipart-logo-cisco-systems-router-network-switch-packet-tracer-logo-hmi-emblem-text-thumbnail.png" height="40" alt="Docker Logo"/> <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" height="40" alt="Cisco Logo"/> <img width="12"/>
 </div>
-
-
-
