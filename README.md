@@ -32,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="40" alt="HTML5 Logo"/> <img width="12"/>
   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="40" alt="CSS3 Logo"/> <img width="12"/>
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="40" alt="JavaScript Logo"/> <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" height="40" alt="MySQL Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1280px-MySQL.svg.png" height="40" alt="MySQL Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40" alt="PHP Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="40" alt="Git Logo"/> <img width="12"/>
