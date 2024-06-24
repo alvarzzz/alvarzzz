@@ -42,5 +42,5 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/> <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/1280px-Cisco_logo_blue_2016.svg.png" height="40" alt="Cisco Logo"/> <img width="12"/>
+  <img src="https://www.svgrepo.com/show/331335/cisco.svg" height="40" alt="Cisco Logo"/> <img width="12"/>
 </div>
