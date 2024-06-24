@@ -35,6 +35,6 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Logo"/> <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/> <img width="12"/>
-  <img src="https://https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" alt="MySQL Logo"/> <img width="12"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" alt="MySQL Logo" style="margin-right: 12px;"/>
 </div>
 
