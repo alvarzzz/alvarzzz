@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia del resto por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Soy proactivo y con carácter, siempre enfocado en ofrecer el mejor servicio posible. 
+<p align="left"><br>Soy un Técnico Superior en Administración de Sistemas Informáticos en Red que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Soy proactivo y con carácter, siempre enfocado en ofrecer el mejor servicio posible. 
 
 <br>Ahora mismo estoy aprendido .NET</p>
 
