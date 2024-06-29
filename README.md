@@ -1,3 +1,20 @@
+# README
+
+> [!NOTE]
+> Esto es información adicional que puede ayudar al usuario.
+
+> [!TIP]
+> Un consejo útil o una sugerencia. 
+
+> [!IMPORTANT]
+> Un consejo útil o una sugerencia. 
+
+> [!WARNING]
+> Un consejo útil o una sugerencia. 
+
+> [!CAUTION]
+> Un consejo útil o una sugerencia. 
+
 <div align="center">
  <p>MY PICTURE</p><img height="150" src=""/>
 </div>
