@@ -1,5 +1,15 @@
 # README
 
+<div align="center">
+ <p>MY PICTURE</p><img src="https://media.licdn.com/dms/image/D4D16AQGJzkO73GqXaQ/profile-displaybackgroundimage-shrink_350_1400/0/1719346561008?e=1725494400&v=beta&t=ZOgOo053-eyI5Gfdaizpz_1Lovgg8rV4OYXR4dc4pv8"/>
+</div>
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/alvarzzz"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedInLogo"></a>
+   <a href="https://tu_enlace_de_descarga_directa_aquí" target="_blank"><img src="https://img.shields.io/badge/Descargar%20CV-beige?style=for-the-badge&logo=acrobat&logoColor=white" height="25" alt="Descargar CV"></a>
+</div>
+
+
 > [!NOTE]
 > Esto es información adicional que puede ayudar al usuario.
 
@@ -15,21 +25,11 @@
 > [!CAUTION]
 > Un consejo útil o una sugerencia. 
 
-<div align="center">
- <p>MY PICTURE</p><img height="150" src=""/>
-</div>
-
-###
-
-<div align="center">
-   <a href="https://www.linkedin.com/in/alvarzzz"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedInLogo"/></a>
-   <a href="https://tu_enlace_de_descarga_directa_aquí" target="_blank"><img src="https://img.shields.io/badge/Descargar%20CV-beige?style=for-the-badge&logo=acrobat&logoColor=white" height="25" alt="Descargar CV"></a>
-</div>
 
 
 ###
 
-<h1 align="center">👋 B I E N V E N I D O</h1>
+<h1 align="center">Hey There! </h1>
 
 ###
 
