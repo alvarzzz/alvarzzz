@@ -24,7 +24,7 @@
 
   <p align="left"><br><strong>Técnico Superior en Administración de Sistemas Informáticos en Red</strong> que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
  
-  <p>Ahora mismo estoy aprendiendo .NET yquiero especializarme en .NET, además de estar en constante aprendizaje de AWS, Docker y Git.</p>
+  <p>Quiero especializarme en .NET, además de estar en constante aprendizaje de AWS, Docker y Git.</p>
   <br>
   <h2 align="center"><strong>Tecnologías</strong></h2>
   <div align="center">
