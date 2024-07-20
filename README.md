@@ -36,11 +36,11 @@
   </div>
   <h2 align="center"><strong>Conocimientos</strong></h2>
   <div align="center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/> <img width="12"/>
-   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Git Logo"/> <img width="12"/>
-   <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_Github-512.png" height="40" alt="GitHub Logo"/> <img width="12"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker Logo"/> <img width="12"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="Amazon Web Services Logo"/> <img width="12"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" height="40" alt="Microsoft Azure Logo"/> <img width="12"/>
+   <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-12/32/Logo_Github-512.png" height="40" alt="GitHub Logo"/> <img width="12"/>
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Git Logo"/> <img width="12"/>
   </div>
  </body>
 </html>
