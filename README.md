@@ -7,14 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
  </head>
  <body>
-
-  <div align="center">
-   <img src="https://media.licdn.com/dms/image/D4D16AQH8lrutL4RJDQ/profile-displaybackgroundimage-shrink_350_1400/0/1719798733315?e=1725494400&v=beta&t=NF5L3m2fy0vyz3FpSpa7qctvF6f5FenKpY_56j3FaeQ"/>
-  </div>
-  </br>
   <div align="center">
     <a href="https://www.linkedin.com/in/alvarzzz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedInLogo"></a>
-    <a href="https://enlace" target="_blank"><img src="https://img.shields.io/badge/Descargar%20CV-beige?style=for-the-badge&logo=acrobat&logoColor=white" height="35" alt="Descargar CV"></a>
   </div> 
  
 ###
@@ -24,7 +18,7 @@
 
   <p align="left"><br><strong>Técnico Superior en Administración de Sistemas Informáticos en Red</strong> que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
  
-  <p>Quiero especializarme en .NET, además de estar en constante aprendizaje de AWS, Docker y Git.</p>
+  <p>Quiero especializarme en .NET y Ciberseguridad, además de estar seguir en constante aprendizaje de Cloud Computing: AWS y Azure</p>
   <br>
   <h2 align="center"><strong>Tecnologías</strong></h2>
   <div align="center">
