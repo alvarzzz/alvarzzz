@@ -18,7 +18,7 @@
 
   <p align="left"><br><strong>Técnico Superior en Administración de Sistemas Informáticos en Red</strong> que destaca y se diferencia por ser altamente productivo bajo presión, con una personalidad y criterios propios que aportan valor mediante opiniones bien fundamentadas. Proactivo, con carácter y siempre enfocado en ofrecer el mejor servicio posible.</p><br>
  
-  <p>Quiero especializarme en .NET y Ciberseguridad, además de estar seguir en constante aprendizaje de Cloud Computing: AWS y Azure</p>
+  <p>Quiero especializarme en Ciberseguridad, además de estar seguir en constante aprendizaje de Cloud Computing: AWS y Azure</p>
   <br>
   <h2 align="center"><strong>Tecnologías</strong></h2>
   <div align="center">
