@@ -20,7 +20,7 @@
 
 **Mail:** ```SMTP, POP3, IMAP.```
 
-**O.S:** ```Linux, Windows Server.```
+**O.S:** ```Linux, Windows Server, Virtualization: VMware & VirtualBox.```
 
 **Hardware:** ```Fortinet, Cisco.```
 
