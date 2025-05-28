@@ -41,4 +41,5 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alvarzzz%20&theme=prussian)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvarocantalejo)
+
