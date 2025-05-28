@@ -20,9 +20,9 @@
 
 **Mail:** ```SMTP, POP3, IMAP.```
 
-**O.S:** ```Linux, Windows Server, Virtualization: VMware & VirtualBox.```
+**O.S:** ```Linux, Windows Server, Apache; Virtualization: VMware & VirtualBox.```
 
-**Hardware:** ```Fortinet, Cisco.```
+**Hardware:** ```Fortinet, Cisco & Printers.```
 
 **Ticketing:** ```GLPI.```
 
