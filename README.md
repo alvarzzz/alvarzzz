@@ -1,33 +1,40 @@
-![Header](https://res.cloudinary.com/dvn2wgaoj/image/upload/v1748365679/GitHub_Header_bxxuka.png)
+![Header](https://res.cloudinary.com/dvn2wgaoj/image/upload/v1748447137/GitHub_Header_vu5gdb.png)
 
-## Hey, I'm Álvaro
-
-Newly graduated and 22 years old
+## 🎓​ Hey, I'm Álvaro
 
  - I am a Junior Sysadmin now specializing on DevOps 
- - 
- - 
+ - Actually working on NDG Linux Essentials by Cisco Networking 
+ - Also practicing Python Basics 1 from Cisco Networking 
 
-## Tech Stack
+## 💻​ Tech Stack
 
-**Main Stack:** Bash, Python, PHP, MySQL, PL/SQL, Git & GitHub.
+**Main Stack:** ```Bash, Python, PHP, MySQL, PL/SQL, Git & GitHub.```
 
-**Cloud:** AWS.
+**Cloud:** ```AWS.```
 
-**Client:** HTML, CSS.
+**Client:** ```HTML, CSS.```
 
-## Network & System
+## 🌐​ Network & System
 
-**Protocols:** VPN, WAN, LAN, TCP/IP, VoIP, DHCP, FTP, SSH.
+**Protocols:** ```VPN, WAN, LAN, TCP/IP, VoIP, DHCP, FTP, SSH.```
 
-**Mail:** SMTP, POP3, IMAP.
+**Mail:** ```SMTP, POP3, IMAP.```
 
-**O.S:** Linux, Windows Server.
+**O.S:** ```Linux, Windows Server.```
 
-**Hardware:** Fortinet, Cisco.
+**Hardware:** ```Fortinet, Cisco.```
 
-**Ticketing:** GLPI
+**Ticketing:** ```GLPI.```
 
-## Appendix
+## 📋​ Extra
 
-Any additional information goes here
+**English:** B2 Cambridge
+**Spanish:** Native
+
+## CerRTs 
+
+ - Introduction to Cibersecurity (Cisco Networking Academy)
+ - Introduction to AWS Management Console (Amazon Web Services)
+ - Introduction to Cloud 101 (Amazon Web Services)
+ - Getting Started with Storage (Amazon Web Services)
+ - Getting Started with Compute (Amazon Web Services)
