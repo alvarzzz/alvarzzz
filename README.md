@@ -41,5 +41,5 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvarocantalejo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alvarzzz)](https://git.io/streak-stats)
 
