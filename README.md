@@ -28,7 +28,7 @@
 
 ## 📋​ Extra
 
-**English:** B2 Cambridge
+**English:** Cambridge B2</br>
 **Spanish:** Native
 
 ## CerRTs 
