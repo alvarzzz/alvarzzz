@@ -2,9 +2,9 @@
 
 ## 🎓​ Hey, I'm Álvaro
 
- - I am a Junior Sysadmin now specializing on DevOps 
- - Actually working on NDG Linux Essentials by Cisco Networking 
- - Also practicing Python Basics 1 from Cisco Networking 
+ - I am a Junior Sysadmin now specializing on DevOps.
+ - Actually working on NDG Linux Essentials by Cisco Networking Academy.
+ - Also practicing Python Basics 1 from Cisco Networking Academy.
 
 ## 💻​ Tech Stack
 
